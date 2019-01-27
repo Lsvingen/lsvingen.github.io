@@ -24,7 +24,7 @@ url                      : "https://lsvingen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Lsvingen/lsvingen.github.io
 teaser                   : "/assets/images/CodingTeaserImage.jpg"
-logo                     : "/assets/images/PowerShell512.jpg"
+logo                     : "/assets/images/PowerShell512.png"
 masthead_title           : "Test title"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
