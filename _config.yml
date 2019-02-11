@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Placeholder Blognamee"
 title_separator          : "-"
 name                     : "Lars Svingen"
-description              : "An amazing website."
+description              : "An amazing website"
 url                      : "https://lsvingen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Lsvingen/lsvingen.github.io
