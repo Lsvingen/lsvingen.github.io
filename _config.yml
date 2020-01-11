@@ -27,7 +27,7 @@ teaser                   : "/assets/images/CodingTeaserImage.jpg"
 logo                     : "/assets/images/PowerShell512.png"
 masthead_title           : "Test title"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
