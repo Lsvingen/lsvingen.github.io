@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Placeholder Blognamee"
+title                    : "Blogname"
 title_separator          : "-"
 name                     : "Lars Svingen"
 description              : "An amazing website"
@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Lsvingen/lsvingen.github.io
 teaser                   : "/assets/images/CodingTeaserImage.jpg"
 logo                     : "/assets/images/PowerShell512.png"
-masthead_title           : "Test title"
+masthead_title           : "Blogname"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
 comments:
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Lars Svingen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/klopp.jpg
   bio              : "I am an amazing person."
   location         : "Molde, Norway"
   email            :
