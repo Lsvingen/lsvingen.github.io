@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: posts
 title: "About Me"
 permalink: /about/
 search: true
