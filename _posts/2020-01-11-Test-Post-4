@@ -1,0 +1,23 @@
+---
+layout: posts
+title: Fourth Real Test Post
+date: 2020-01-11
+category: Example
+tags: [new, old]
+---
+
+# Test
+
+## Preface
+
+While working on my [PoShDynDnsApi](https://github.com/thedavecarroll/PoShDynDnsApi){:target="_blank"} module, I came across an issue with
+with a function I had predominantly borrowed from a [TechNet blog post from Jamie Nelson](https://blogs.technet.microsoft.com/janesays/2017/04/25/compare-all-properties-of-two-objects-in-windows-powershell/){:target="_blank"}.
+Specifically, in my function `Update-DynDnsRecord` that called the `Compare-ObjectProperties` function, when I used the
+`-WhatIf` parameter, I unexpectedly received the following:
+
+## Conclusion
+
+**Note:** I never considered forgoing advanced functions, just that the cmdlet could be an ad hoc supplement.
+{: .notice--primary}
+
+
